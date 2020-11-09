@@ -3,10 +3,10 @@
 The purpose of the analysis is to determine the best supervised machine learning model to assess credit risk. The data that is used is unbalanced; there are far more good loans than risky loans making classifaction trickey.
 
 ### Resources
-LoanStats_2019.csv
-Jupyter Notebook
-Python
-Scikit-learn
+LoanStats_2019.csv</br>
+Jupyter Notebook</br>
+Python</br>
+Scikit-learn</br>
 Python 3.7
 
 ## Results: 
